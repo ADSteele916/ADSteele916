@@ -1,9 +1,9 @@
 ### About Me
 
-Hello! I'm Alex, a computer science and physics student at the University of British Columbia graduating in 2024. My interests include embedded and application development, machine learning, and numerical methods.
+Hello! I’m Alex, a software engineer specializing in embedded and systems programming.
 
-I'm currently a software engineer intern on the passive safety team at Tesla, and the lead teaching assistant for CPSC 110, UBC's major-stream introductory computer science course, where I am responsible for many of our internal systems. In my free time, I contribute to the UBC Rocket design team as a member of the avionics subteam and work on various [side projects](https://github.com/ADSteele916?tab=repositories). I also both help plan and volunteer at UBC's annual Physics Olympics competition.
+I currently work at Tesla, where I optimize the distributed vehicle simulations that validate the safety of all software rolled out to vehicles. My main professional interest is designing high-performance systems responsible for mission-critical decisions. More concretely, I enjoy working on embedded firmware, high-performance applications, and AI (specifically reinforcement learning) systems. In previous roles, I’ve written safety-critical firmware for responding to automotive crashes, magnetohydrodynamic simulation software, and a satellite firmware image deployment system.
 
-In the past, I've worked as a software engineer intern at Kepler Communications and a numerical methods research assistant in UBC's Numerical Linear Algebra Lab. 
+I received my Honours Bachelor of Science in Computer Science and Physics from the University of British Columbia in May 2024. In my final year, I completed my thesis on reinforcement learning for snake-like robots under the supervision of Professor Michiel van de Panne. I was also the lead teaching assistant for CPSC 110, the university’s major-stream introductory computer science course, for four years. As part of that role, I developed a high-performance code similarity detection system capable of comparing tens of millions of pairs of assignment submissions, which is now in use across the department.
 
-I'm not currently looking for co-op opportunities, but I am starting to look for new grad roles beginning in May 2024.
+Please don’t hesitate to reach out if you’d like to chat. The best way to get ahold of me is via [email](mailto:contact@alexdsteele.com).
